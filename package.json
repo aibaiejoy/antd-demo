@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "react-dom": "latest",
+    "antd": "latest",
+    "babel-eslint": "8.2.5",
     "react": "latest",
-    "antd": "latest"
+    "react-dom": "latest"
   },
-  "name": "9jxz716q04",
-  "description": null,
+  "name": "wby-antd-demo",
+  "description": "null",
   "version": "0.0.0",
   "devDependencies": {
     "react-scripts": "1.0.0"
